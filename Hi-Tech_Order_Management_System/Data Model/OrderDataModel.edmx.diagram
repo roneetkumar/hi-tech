@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="720ce10bed74409f9144a9518b6952cc" Name="Diagram1">
+        <EntityTypeShape EntityType="HitechDBModel.Author" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HitechDBModel.Book" Width="1.5" PointX="3" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HitechDBModel.Category" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HitechDBModel.Customer" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="HitechDBModel.Employee" Width="1.5" PointX="3" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HitechDBModel.Order" Width="1.5" PointX="5.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HitechDBModel.Publisher" Width="1.5" PointX="5.25" PointY="7.875" IsExpanded="true" />
+        <AssociationConnector Association="HitechDBModel.FK_Books_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="HitechDBModel.FK_Books_Publishers" ManuallyRouted="false" />
+        <AssociationConnector Association="HitechDBModel.FK_Publishers_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="HitechDBModel.FK_Categories_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="HitechDBModel.FK_Orders_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="HitechDBModel.FK_Orders_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="HitechDBModel.AuthorBooks" ManuallyRouted="false" />
+        <AssociationConnector Association="HitechDBModel.OrderLine" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

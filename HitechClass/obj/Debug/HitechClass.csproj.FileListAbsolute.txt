@@ -1,0 +1,30 @@
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csprojAssemblyReference.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csproj.CoreCompileInputs.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.pdb
+C:\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.dll
+C:\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.pdb
+C:\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csprojAssemblyReference.cache
+C:\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csproj.CoreCompileInputs.cache
+C:\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.dll
+C:\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csprojAssemblyReference.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csproj.CoreCompileInputs.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csprojAssemblyReference.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csproj.CoreCompileInputs.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.pdb
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.dll
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\bin\Debug\HitechClass.pdb
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.dll
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.pdb

@@ -1,0 +1,99 @@
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csprojAssemblyReference.cache
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.EmployeeForm.resources
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.UserForm.resources
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.GenerateResource.cache
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CoreCompileInputs.cache
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe.config
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.pdb
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.exe
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.pdb
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagerForm.resources
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.SelectForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe.config
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csprojAssemblyReference.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.EmployeeForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagerForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.SelectForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.UserForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.GenerateResource.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CoreCompileInputs.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.exe
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CopyComplete
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.dll
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.pdb
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CopyComplete
+C:\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagementForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe.config
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csprojAssemblyReference.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.EmployeeForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagementForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagerForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.UserForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.GenerateResource.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CoreCompileInputs.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CopyComplete
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.exe
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.CustomerForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.PasswordForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.xml
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe.config
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csprojAssemblyReference.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.CustomerForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagementForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagerForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.PasswordForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.GenerateResource.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CoreCompileInputs.cache
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CopyComplete
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.exe
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.pdb
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.BooksForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.OrderForm.resources
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.xml
+C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.dll
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.dll
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\HitechClass.pdb
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.xml
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.BooksForm.resources
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.CustomerForm.resources
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagementForm.resources
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.ManagerForm.resources
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.OrderForm.resources
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.GUI.PasswordForm.resources
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.GenerateResource.cache
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.exe
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.pdb
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.exe.config
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\bin\Debug\Hi-Tech_Order_Management_System.pdb
+C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\obj\Debug\Hi-Tech_Order_Management_System.csproj.CopyComplete

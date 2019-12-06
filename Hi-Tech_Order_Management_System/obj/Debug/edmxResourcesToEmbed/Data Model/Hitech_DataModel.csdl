@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HitechDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="CustomerId" Type="Int32" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="PostalCode" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="FaxNumber" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="CreditLimit" Type="Int32" />
+    <Property Name="Street" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Orders_Orders" FromRole="Customers" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" />
+    <Property Name="PlacedDate" Type="DateTime" Precision="0" />
+    <Property Name="ArrivingDate" Type="DateTime" Precision="0" />
+    <Property Name="CustomerId" Type="Int32" />
+    <Property Name="ISBN" Type="Int32" />
+    <Property Name="PublisherID" Type="Int32" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK_Orders_Orders" FromRole="Orders" ToRole="Customers" />
+    <NavigationProperty Name="Publisher" Relationship="HitechDBModel.PublisherOrder" FromRole="Order" ToRole="Publisher" />
+    <NavigationProperty Name="Book" Relationship="HitechDBModel.FK_Orders_Books" FromRole="Order" ToRole="Book" />
+    <NavigationProperty Name="Orders1" Relationship="HitechDBModel.FK_Orders_Orders1" FromRole="Order" ToRole="Order1" />
+    <NavigationProperty Name="Order1" Relationship="HitechDBModel.FK_Orders_Orders1" FromRole="Order1" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Publisher">
+    <Key>
+      <PropertyRef Name="PublisherID" />
+    </Key>
+    <Property Name="PublisherID" Type="Int32" Nullable="false" />
+    <Property Name="ISBN" Type="Int32" />
+    <Property Name="Name" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Orders" Relationship="HitechDBModel.PublisherOrder" FromRole="Publisher" ToRole="Order" />
+    <NavigationProperty Name="Book" Relationship="HitechDBModel.FK_Publishers_Books" FromRole="Publisher" ToRole="Book" />
+    <NavigationProperty Name="Books" Relationship="HitechDBModel.FK_Books_Publishers" FromRole="Publisher" ToRole="Book" />
+  </EntityType>
+  <Association Name="FK_Orders_Orders">
+    <End Role="Customers" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HitechDBEntities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <EntitySet Name="Publishers" EntityType="Self.Publisher" />
+    <AssociationSet Name="FK_Orders_Orders" Association="Self.FK_Orders_Orders">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="PublisherOrder" Association="HitechDBModel.PublisherOrder">
+      <End Role="Publisher" EntitySet="Publishers" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <EntitySet Name="Books" EntityType="HitechDBModel.Book" />
+    <AssociationSet Name="FK_Orders_Books" Association="HitechDBModel.FK_Orders_Books">
+      <End Role="Book" EntitySet="Books" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Publishers_Books" Association="HitechDBModel.FK_Publishers_Books">
+      <End Role="Book" EntitySet="Books" />
+      <End Role="Publisher" EntitySet="Publishers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Books_Publishers" Association="HitechDBModel.FK_Books_Publishers">
+      <End Role="Publisher" EntitySet="Publishers" />
+      <End Role="Book" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_Orders1" Association="HitechDBModel.FK_Orders_Orders1">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="Order1" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="PublisherOrder">
+    <End Type="HitechDBModel.Publisher" Role="Publisher" Multiplicity="1" />
+    <End Type="HitechDBModel.Order" Role="Order" Multiplicity="*" />
+  </Association>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="ISBN" />
+    </Key>
+    <Property Name="ISBN" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="UnitPrice" Type="Int32" />
+    <Property Name="YearPublished" Type="Int32" />
+    <Property Name="QOH" Type="Int32" />
+    <Property Name="AuthorID" Type="Int32" />
+    <Property Name="PublisherID" Type="Int32" />
+    <NavigationProperty Name="Orders" Relationship="HitechDBModel.FK_Orders_Books" FromRole="Book" ToRole="Order" />
+    <NavigationProperty Name="Publishers" Relationship="HitechDBModel.FK_Publishers_Books" FromRole="Book" ToRole="Publisher" />
+    <NavigationProperty Name="Publisher" Relationship="HitechDBModel.FK_Books_Publishers" FromRole="Book" ToRole="Publisher" />
+  </EntityType>
+  <Association Name="FK_Orders_Books">
+    <End Type="HitechDBModel.Book" Role="Book" Multiplicity="0..1" />
+    <End Type="HitechDBModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="ISBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Publishers_Books">
+    <End Type="HitechDBModel.Book" Role="Book" Multiplicity="0..1" />
+    <End Type="HitechDBModel.Publisher" Role="Publisher" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="Publisher">
+        <PropertyRef Name="ISBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Books_Publishers">
+    <End Type="HitechDBModel.Publisher" Role="Publisher" Multiplicity="0..1" />
+    <End Type="HitechDBModel.Book" Role="Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publisher">
+        <PropertyRef Name="PublisherID" />
+      </Principal>
+      <Dependent Role="Book">
+        <PropertyRef Name="PublisherID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_Orders1">
+    <End Type="HitechDBModel.Order" Role="Order" Multiplicity="1" />
+    <End Type="HitechDBModel.Order" Role="Order1" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="Order1">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
