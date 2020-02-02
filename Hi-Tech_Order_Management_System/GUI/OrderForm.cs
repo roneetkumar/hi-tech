@@ -29,12 +29,12 @@ namespace Hi_Tech_Order_Management_System.GUI
 
         private void buttonExit_Click(object sender, EventArgs e)
         {
-            DialogResult dialogResult = MessageBox.Show("Sure", "you want to exit", MessageBoxButtons.YesNo);
+            DialogResult dialogResult = MessageBox.Show("Are you sure you want to exit?", "Confirm", MessageBoxButtons.YesNo);
             if (dialogResult == DialogResult.Yes)
             {
-                this.Hide();
+                this.Close();
                 ManagerForm managerform = new ManagerForm();
-                managerform.ShowDialog();
+                managerform.Show();
             }
             else
             {

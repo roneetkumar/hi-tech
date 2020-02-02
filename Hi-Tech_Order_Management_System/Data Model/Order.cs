@@ -19,5 +19,10 @@ namespace Hi_Tech_Order_Management_System.Data_Model
         public Nullable<System.DateTime> ArrivingDate { get; set; }
         public Nullable<int> CustomerId { get; set; }
         public Nullable<int> EmployeeId { get; set; }
+    
+        public virtual Order Orders1 { get; set; }
+        public virtual Order Order1 { get; set; }
+        public virtual Order Orders11 { get; set; }
+        public virtual Order Order2 { get; set; }
     }
 }

@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\AEC\sem3\DA3\Hi-Tech_Order_Management_System (2)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\Hi-Tech_Order_Management_System\Data Model\OrderDataModel.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\Files\Code\c-sharp\Project\hi-tech\Hi-Tech_Order_Management_System\Data Model\OrderDataModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

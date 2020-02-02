@@ -28,3 +28,7 @@ C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Manag
 C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.csproj.CoreCompileInputs.cache
 C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.dll
 C:\Users\Machine\Desktop\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System (4)\Hi-Tech_Order_Management_System\HitechClass\obj\Debug\HitechClass.pdb
+D:\Files\Code\c-sharp\Project\hi-tech\HitechClass\bin\Debug\HitechClass.dll
+D:\Files\Code\c-sharp\Project\hi-tech\HitechClass\bin\Debug\HitechClass.pdb
+D:\Files\Code\c-sharp\Project\hi-tech\HitechClass\obj\Debug\HitechClass.dll
+D:\Files\Code\c-sharp\Project\hi-tech\HitechClass\obj\Debug\HitechClass.pdb

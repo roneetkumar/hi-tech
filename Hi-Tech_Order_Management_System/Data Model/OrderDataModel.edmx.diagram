@@ -20,6 +20,12 @@
         <AssociationConnector Association="HitechDBModel.FK_Orders_Employee" ManuallyRouted="false" />
         <AssociationConnector Association="HitechDBModel.AuthorBooks" ManuallyRouted="false" />
         <AssociationConnector Association="HitechDBModel.OrderLine" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="HitechDBModel.Login" Width="1.5" PointX="9.625" PointY="1" />
+        <EntityTypeShape EntityType="HitechDBModel.sysdiagram" Width="1.5" PointX="7.375" PointY="3.75" />
+        <EntityTypeShape EntityType="HitechDBModel.User" Width="1.5" PointX="7.375" PointY="0.875" />
+        <AssociationConnector Association="HitechDBModel.FK_Login_User" />
+        <AssociationConnector Association="HitechDBModel.FK_Orders_Orders1" />
+        <AssociationConnector Association="HitechDBModel.FK_Orders_Orders2" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

@@ -63,34 +63,34 @@ namespace Hi_Tech_Order_Management_System.GUI
                         {
 
                         this.Hide();
-                        string JobTitle = dt.Rows[0]["JobTitle"].ToString();
+                        string JobTitle = dt.Rows[0]["JobTitle"].ToString().Trim();
                          
                         switch (JobTitle)
                       
                         {
 
-                            case "MIS Manager                   ":
+                            case "MIS Manager":
                                     {
                                     this.Hide();
                                     ManagementForm mm = new ManagementForm();
                                     mm.Show();
                                     break;
                                     }
-                                case "Sales Manager                 ":
+                                case "Sales Manager":
                                     {
                                         this.Hide();
                                         CustomerForm um = new CustomerForm();
                                         um.Show();
                                         break;
                                     }
-                            case "Inventory Controller          ":
+                            case "Inventory Controller":
                                 {
                                     this.Hide();
                                    BooksForm um = new BooksForm();
                                     um.Show();
                                     break;
                                 }
-                            case "Order Clerks                  ":
+                            case "Order Clerk":
                                 {
                                     this.Hide();
                                     OrderForm um = new OrderForm();
@@ -118,10 +118,10 @@ namespace Hi_Tech_Order_Management_System.GUI
    
         private void ButtonExit_Click(object sender, EventArgs e)
         {
-            DialogResult dialogResult = MessageBox.Show("Sure", "you want to exit", MessageBoxButtons.YesNo);
+            DialogResult dialogResult = MessageBox.Show("Are you sure you want to exit?", "Confirm", MessageBoxButtons.YesNo);
             if (dialogResult == DialogResult.Yes)
             {
-                this.Close();
+                Application.Exit();
                
             }
             else

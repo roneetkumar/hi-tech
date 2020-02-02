@@ -177,7 +177,7 @@
             this.dataGridView.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView.Location = new System.Drawing.Point(26, 93);
-            this.dataGridView.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.dataGridView.Margin = new System.Windows.Forms.Padding(1);
             this.dataGridView.Name = "dataGridView";
             this.dataGridView.RowTemplate.Height = 40;
             this.dataGridView.Size = new System.Drawing.Size(389, 149);
@@ -489,7 +489,7 @@
             this.buttonExit.Name = "buttonExit";
             this.buttonExit.Size = new System.Drawing.Size(75, 41);
             this.buttonExit.TabIndex = 18;
-            this.buttonExit.Text = "Exit";
+            this.buttonExit.Text = "Logout";
             this.buttonExit.UseVisualStyleBackColor = false;
             this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
@@ -503,7 +503,7 @@
             this.Controls.Add(this.groupBox7);
             this.Controls.Add(this.groupBox9);
             this.Controls.Add(this.groupBox8);
-            this.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.Margin = new System.Windows.Forms.Padding(1);
             this.Name = "CustomerForm";
             this.Text = "CustomerForm";
             this.Load += new System.EventHandler(this.CustomerForm_Load);

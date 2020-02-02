@@ -47,6 +47,8 @@
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Entity.Design" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
@@ -75,6 +77,9 @@
     <Compile Include="Data Model\Employee.cs">
       <DependentUpon>OrderDataModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Data Model\Login.cs">
+      <DependentUpon>OrderDataModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Data Model\Order.cs">
       <DependentUpon>OrderDataModel.tt</DependentUpon>
     </Compile>
@@ -94,6 +99,18 @@
       <DependentUpon>OrderDataModel.edmx</DependentUpon>
     </Compile>
     <Compile Include="Data Model\Publisher.cs">
+      <DependentUpon>OrderDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data Model\sp_helpdiagramdefinition_Result.cs">
+      <DependentUpon>OrderDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data Model\sp_helpdiagrams_Result.cs">
+      <DependentUpon>OrderDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data Model\sysdiagram.cs">
+      <DependentUpon>OrderDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data Model\User.cs">
       <DependentUpon>OrderDataModel.tt</DependentUpon>
     </Compile>
     <Compile Include="GUI\BooksForm.cs">

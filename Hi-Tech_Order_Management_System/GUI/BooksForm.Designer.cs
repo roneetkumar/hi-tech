@@ -374,7 +374,7 @@
             this.buttonExit.Name = "buttonExit";
             this.buttonExit.Size = new System.Drawing.Size(75, 41);
             this.buttonExit.TabIndex = 49;
-            this.buttonExit.Text = "Exit";
+            this.buttonExit.Text = "Logout";
             this.buttonExit.UseVisualStyleBackColor = false;
             this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 

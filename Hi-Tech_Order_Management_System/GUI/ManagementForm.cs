@@ -114,7 +114,8 @@ namespace Hi_Tech_Order_Management_System.GUI
             emp.JobTitle = textBoxJT.Text.Trim();
             emp.SaveEmployee(emp);
             MessageBox.Show("Employee record has been saved .", "Employee Saved", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            
+            ListViewEmployee_Click(sender, e);
+
         }
 
         private void Label14_Click(object sender, EventArgs e)
@@ -132,6 +133,7 @@ namespace Hi_Tech_Order_Management_System.GUI
                     Employee emp = new Employee();
                     emp.DeleteEmployee(Convert.ToInt32(textBoxEmp.Text));
                     MessageBox.Show("Employee Record has been deleted !", "Delete Record", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    ListViewEmployee_Click(sender, e);
                 }
                 else
                 {
@@ -159,6 +161,7 @@ namespace Hi_Tech_Order_Management_System.GUI
                 emp.UpdateEmployee(emp);
 
                 MessageBox.Show("Employee Record updated !", "Update Record", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                ListViewEmployee_Click(sender, e);
             }
             catch (Exception ex)
             {
@@ -319,12 +322,12 @@ namespace Hi_Tech_Order_Management_System.GUI
 
         private void buttonExit_Click_1(object sender, EventArgs e)
         {
-            DialogResult dialogResult = MessageBox.Show("Sure", "you want to exit", MessageBoxButtons.YesNo);
+            DialogResult dialogResult = MessageBox.Show("Are you sure you want to exit?", "Confirm", MessageBoxButtons.YesNo);
             if (dialogResult == DialogResult.Yes)
             {
-                this.Hide();
+                this.Close();
                 ManagerForm managerform = new ManagerForm();
-                managerform.ShowDialog();
+                managerform.Show();
             }
             else
             {
